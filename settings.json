@@ -22,7 +22,7 @@
       "password": "Perzuu"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
     "chat-messages": {
@@ -42,9 +42,9 @@
     }
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
-      "enabled": false,
+      "enabled": true,
       "radius": 4,
       "speed": 3000
     },
