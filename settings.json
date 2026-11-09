@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bot",
+    "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "clavsbigworld.aternos.me",
-    "port": 43712,
+    "ip": "example.aternos.me",
+    "port": 75375,
     "version": "1.21.1"
   },
   "position": {
@@ -29,7 +29,11 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
-      "messages": []
+      "messages": [
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
+        "I like to play Minecraft!"
+      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
